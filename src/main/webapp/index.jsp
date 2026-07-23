@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Hello World docker deployment is done!" %></h2>
+<h2><%= "every one to be present tommorow by 10am sharp!" %></h2>
 </body>
 </html>
