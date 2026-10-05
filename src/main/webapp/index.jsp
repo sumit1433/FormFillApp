@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "HELLO dear!" %></h2>
+<h2><%= "the deployment is done !" %></h2>
 </body>
 </html>
